@@ -1,11 +1,11 @@
 # Awesome EStreamers Coders
 ℹ️ Si estas haciendo streaming en Twitch o YouTube sobre contenido relacionado a la tecnología o programación eres bienvenida o bienvenido de hacer un PR agregando tu información en esta lista.
 
-## Argentina
-- [Jorge Cano](https://www.youtube.com/JorgeCano) — #Angular #GDE - Owner de @ngbaires - @ngconf organizer - principal architect @HeroDevs @scullyIO - @angulareando - #EStreamerCoders.
-- [Gonzalo Pozzo](https://www.twitch.tv/goncypozzo) — Solutions architect @ Vercel, Frontend / React ❤ [@gonzy](https://twitter.com/goncy)
-- [Noe VamoaCodear](https://www.twitch.tv/vamoacodear) — Desarrolladora Frontend 🟣 • Aprendemos tecnologías en Twitch.
-
+| Pais  | streamer | estado | social media | details |
+|-------|----------|-------|--------------|---------|
+|🇦🇷 Argentina|[Gonzalo Pozzo](https://www.twitch.tv/goncypozzo)| activo | https://twitter.com/goncy https://github.com/goncy https://www.instagram.com/goncy.js/ [youtube](shorturl.at/ackKQ)| Solutions architect @ Vercel, Frontend / React ❤ 
+|🇦🇷 Argentina| [Noe VamoaCodear](https://www.twitch.tv/vamoacodear)| activa | https://www.tiktok.com/@vamoacodear https://twitter.com/vamoacodear https://discord.com/invite/CJdPBeTw6s  [youtube](https://www.youtube.com/c/vamoacodear/videos) |  Desarrolladora Frontend 🟣 • Aprendemos tecnologías en Twitch.
+|🇦🇷 Argentina|[Jorge Cano](https://www.youtube.com/JorgeCano) | inactivo |  https://www.twitter.com/jorgeucano  https://anchor.fm/jorge-cano4 | — #Angular #GDE - Owner de @ngbaires - @ngconf organizer - principal architect @HeroDevs @scullyIO - @angulareando - #EStreamerCoders.  |
 
 
 ## Chile
